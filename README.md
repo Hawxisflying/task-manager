@@ -1,5 +1,4 @@
 
-````md
 # Simple Task Management System
 
 This is a Laravel-based Task Management System developed as part of the Intern Assessment for Techpath Learning Private Ltd.
@@ -85,5 +84,5 @@ http://127.0.0.1:8000
 ```
 
 
-```
+
 
