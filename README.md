@@ -30,6 +30,10 @@ The application demonstrates Laravel fundamentals, MVC architecture, and clean c
 
 ### 1. Extract the Project
 
+Clone the project:
+
+git clone https://github.com/Hawxisflying/task-manager
+
 Extract the ZIP file and navigate to the project directory:
 
 cd task-manager
